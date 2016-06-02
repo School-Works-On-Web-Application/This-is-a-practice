@@ -1,6 +1,6 @@
 /*CSS codes go here */
-
-p{
-    font-family: calibri; 
+.firstSentence {
+    color: darkblue; 
     font-weight: bold; 
+    font-size: 1.1em; 
 }
